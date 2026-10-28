@@ -33,8 +33,4 @@ while True:
 
     else:
         print("Invalid Choice")
-        print("Final Balance =", balance)
-        break
-
-    else:
-        print("Invalid Choice")
+       
